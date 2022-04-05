@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/drawer_menu_my_profile"
+            android:icon="@drawable/ic_baseline_self_improvement_24"
+            android:title="My profile"
+            />
+
+        <item
+            android:id="@+id/drawer_menu_bookmarks"
+            android:icon="@drawable/ic_baseline_bookmark_border_24"
+            android:title="Bookmarks"
+            />
+
+        <item
+            android:id="@+id/drawer_menu_search"
+            android:icon="@drawable/ic_baseline_search_24"
+            android:title="Search"
+            />
+
+        <item
+            android:id="@+id/drawer_menu_settings"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="Settings"
+            />
+
+    <group>
+
+        <item
+            android:id="@+id/drawer_menu_ads"
+            android:icon="@drawable/ic_baseline_ads_click_24"
+            android:title="Ads"
+            />
+
+        <item
+            android:id="@+id/drawer_menu_version"
+            android:icon="@drawable/ic_baseline_superscript_24"
+            android:title="v1.0 (00001)"
+            />
+
+    </group>
+
+
+
+
+</menu>
